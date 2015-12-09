@@ -1,5 +1,5 @@
 # CYices
-Swift System Module to link against the Yices SMT solver
+[Swift System Module](https://github.com/apple/swift-package-manager/blob/master/Documentation/SystemModules.md) to link against the Yices SMT solver
 
 TODO: `module.modulemap`
 
