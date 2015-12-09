@@ -1,8 +1,6 @@
 # CYices
 [Swift System Module](https://github.com/apple/swift-package-manager/blob/master/Documentation/SystemModules.md) to link against the Yices SMT solver
 
-TODO: `module.modulemap`
-
 ## Prerequisite
 
 The [Yices SMT Solver](http://yices.csl.sri.com) has to be installed on your machine. 
