@@ -1,5 +1,5 @@
 # CYices
-[Swift System Module](https://github.com/apple/swift-package-manager/blob/master/Documentation/SystemModules.md) to link against the Yices SMT solver
+[Swift System Module](https://github.com/apple/swift-package-manager/blob/master/Documentation/SystemModules.md) to link against the Yices SMT solver. 
 
 ## Prerequisite
 
@@ -13,3 +13,7 @@ Then the following files should exist:
     
     /usr/local/lib/libyices.so             # Linux only
     /usr/local/lib/libyices.dylib          # OS X only
+    
+## Usage
+
+See [CYicesSample](https://github.com/AleGit/CYicesSample).
