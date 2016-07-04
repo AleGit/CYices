@@ -1,5 +1,5 @@
 # CYices
-[Swift System Module](https://github.com/apple/swift-package-manager/blob/master/Documentation/SystemModules.md) to link against the Yices SMT solver. (Tested with Ubuntu 15.10 and Mac OS X 10.11)
+[Swift System Module](https://github.com/apple/swift-package-manager/blob/master/Documentation/SystemModules.md) to link against the Yices SMT solver. (Tested with Ubuntu 14.10 LTS)
 
 ## Prerequisite
 
