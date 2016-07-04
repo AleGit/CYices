@@ -18,4 +18,4 @@ Then the following files should exist:
     
 ## Usage
 
-See [CYicesSample](https://github.com/AleGit/CYicesSample) and [Yices](https://github.com/AleGit/Yices).
+See [CYicesSample](https://github.com/AleGit/CYicesSample) and [Yices](https://github.com/AleGit/Yices) (not added yet).
