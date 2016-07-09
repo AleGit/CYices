@@ -1,5 +1,5 @@
 # CYices
-[Swift System Module](https://github.com/apple/swift-package-manager/blob/master/Documentation/SystemModules.md) to link against the Yices SMT solver. (Tested with Ubuntu 14.10 LTS)
+[Swift System Module](https://github.com/apple/swift-package-manager/blob/master/Documentation/SystemModules.md) to link against the Yices SMT solver. (Tested with Ubuntu 14.04 LTS and macOS Sierra 10.12 Beta)
 
 ## Prerequisite
 
@@ -18,4 +18,4 @@ Then the following files should exist:
     
 ## Usage
 
-See [CYicesSample](https://github.com/AleGit/CYicesSample) and [Yices](https://github.com/AleGit/Yices) (not added yet).
+See [CApiUsage](https://github.com/AleGit/CApiUsage).
