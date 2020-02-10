@@ -3,6 +3,6 @@
 import PackageDescription
 
 let package = Package(
-    name: "CYices"
+    name: "CYices",
     pkgConfig: "Yices"
 )
