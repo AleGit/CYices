@@ -1,5 +1,5 @@
 module CYices [system] {
-    header "/usr/local/include/yices.h"
+    header "shim.h"
     link "yices"
     export *
 }
