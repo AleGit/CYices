@@ -11,3 +11,5 @@ The paths to header and library files have to be configured with
 ```
 import CYices
 ```
+
+See [FLEA-CNF](https://github.com/AleGit/FLEA-CNF) for usage.
